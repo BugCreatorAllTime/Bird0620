@@ -1,0 +1,41 @@
+bird11.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+BLayer 3
+bounds:179,8,55,71
+BLayer 4
+bounds:324,48,40,37
+rotate:90
+Bbody
+bounds:2,237,168,271
+Bleg1
+bounds:90,23,56,87
+rotate:90
+Bleg2
+bounds:2,22,57,86
+rotate:90
+Btail
+bounds:172,247,97,169
+rotate:90
+Bwing
+bounds:172,346,133,162
+skin1/Layer 1
+bounds:281,31,41,57
+skin1/Layer 2
+bounds:343,257,26,23
+rotate:90
+skin1/body
+bounds:2,81,154,257
+rotate:90
+skin1/eye
+bounds:2,2,18,18
+skin1/leg1
+bounds:343,285,42,73
+skin1/leg2
+bounds:236,7,43,72
+skin1/tail
+bounds:261,90,83,155
+skin1/wing
+bounds:307,360,119,148

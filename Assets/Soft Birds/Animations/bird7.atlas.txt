@@ -1,0 +1,41 @@
+bird7.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+BLayer 1 copy
+bounds:2,195,117,254
+BLayer 14 copy
+bounds:148,91,35,48
+BLayer 15 copy
+bounds:148,141,97,169
+rotate:90
+BLayer 16 copy 2
+bounds:363,392,57,86
+rotate:90
+BLayer 17 copy
+bounds:2,75,118,144
+rotate:90
+BLayer 9 copy
+bounds:319,172,56,87
+skin1/Layer 1
+bounds:121,346,103,240
+rotate:90
+skin1/Layer 12
+bounds:121,213,25,25
+skin1/Layer 14
+bounds:185,105,21,34
+skin1/Layer 15
+bounds:253,261,83,155
+rotate:90
+skin1/Layer 16 copy
+bounds:363,347,43,72
+rotate:90
+skin1/Layer 17 copy
+bounds:121,240,104,130
+rotate:90
+skin1/Layer 17
+bounds:121,240,104,130
+rotate:90
+skin1/Layer 9
+bounds:319,97,42,73

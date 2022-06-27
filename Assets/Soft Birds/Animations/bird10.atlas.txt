@@ -1,0 +1,36 @@
+bird10.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+Bbody copy
+bounds:2,248,148,258
+Bleg1 copy
+bounds:259,79,56,87
+Bleg2 copy
+bounds:259,168,57,86
+Bmouth copy
+bounds:138,21,125,54
+Btail copy
+bounds:259,366,107,140
+Bwing1 copy 2
+bounds:138,77,119,169
+Bwing1 copy 3
+bounds:138,77,119,169
+skin1/body
+bounds:2,2,134,244
+skin1/eye
+bounds:138,2,17,17
+skin1/leg1
+bounds:280,291,42,73
+skin1/leg2
+bounds:317,94,43,72
+skin1/mouth
+bounds:265,37,111,40
+skin1/tail
+bounds:152,256,93,126
+rotate:90
+skin1/wing1 copy
+bounds:152,351,105,155
+skin1/wing1
+bounds:152,351,105,155

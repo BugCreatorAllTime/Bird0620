@@ -1,0 +1,44 @@
+bird6.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+Bbody copy
+bounds:2,196,118,237
+Bleg1 copy
+bounds:319,155,56,87
+Bleg2 copy
+bounds:347,376,57,86
+rotate:90
+Bmouth copy
+bounds:148,78,35,44
+Btail copy
+bounds:148,124,97,169
+rotate:90
+Bwing1 copy 2
+bounds:2,76,118,144
+rotate:90
+Bwing1 copy
+bounds:2,76,118,144
+rotate:90
+skin1/body
+bounds:122,329,104,223
+rotate:90
+skin1/eye
+bounds:122,202,18,19
+skin1/leg1
+bounds:319,80,42,73
+skin1/leg2
+bounds:347,331,43,72
+rotate:90
+skin1/mouth
+bounds:185,93,21,29
+skin1/tail
+bounds:254,244,83,155
+rotate:90
+skin1/wing1 copy 3
+bounds:122,223,104,130
+rotate:90
+skin1/wing1
+bounds:122,223,104,130
+rotate:90

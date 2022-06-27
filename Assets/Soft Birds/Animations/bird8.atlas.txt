@@ -1,0 +1,30 @@
+bird8.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.35
+Bbody copy
+bounds:2,808,162,210
+Bleg1 copy
+bounds:2,2,56,87
+rotate:90
+Bmouth copy
+bounds:81,90,100,35
+rotate:90
+Btail copy
+bounds:2,192,91,144
+Bwing1 copy
+bounds:2,467,137,141
+skin1/body
+bounds:2,610,148,196
+skin1/eye
+bounds:91,4,17,17
+skin1/leg1
+bounds:91,23,42,73
+rotate:90
+skin1/mouth
+bounds:81,67,86,21
+skin1/tail
+bounds:2,60,77,130
+skin1/wing1
+bounds:2,338,123,127

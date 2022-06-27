@@ -1,0 +1,35 @@
+bird5.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.35
+BLayer 2 copy
+bounds:2,738,156,274
+Bleg1 copy
+bounds:101,387,56,87
+Bleg2 copy
+bounds:122,85,57,86
+Bmouth copy
+bounds:122,42,38,41
+Btail copy
+bounds:2,305,97,169
+Bwings copy 2
+bounds:2,2,118,144
+Bwings copy 3
+bounds:2,2,118,144
+skin1/Layer 2
+bounds:2,476,142,260
+skin1/eye
+bounds:87,152,18,19
+skin1/leg1
+bounds:101,312,42,73
+skin1/leg2
+bounds:145,313,43,72
+skin1/mouth
+bounds:122,13,24,27
+skin1/tail
+bounds:2,148,83,155
+skin1/wings copy
+bounds:87,173,104,130
+skin1/wings
+bounds:87,173,104,130

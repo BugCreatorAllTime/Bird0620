@@ -1,0 +1,42 @@
+bird3.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+Bbody copy
+bounds:2,220,171,286
+Bleg1 copy
+bounds:201,3,56,87
+rotate:90
+Bleg2 copy
+bounds:113,2,57,86
+rotate:90
+Bmouth copy
+bounds:2,12,109,47
+Btail copy
+bounds:296,366,107,140
+Bwing1 copy 2
+bounds:175,337,119,169
+Bwing1 copy 3
+bounds:175,337,119,169
+skin1/body
+bounds:2,61,157,272
+rotate:90
+skin1/eye
+bounds:296,347,17,17
+skin1/leg1
+bounds:290,22,43,72
+rotate:90
+skin1/leg2
+bounds:364,23,42,73
+rotate:90
+skin1/mouth
+bounds:276,67,95,33
+skin1/tail
+bounds:276,102,93,126
+skin1/wing1 copy
+bounds:175,230,105,155
+rotate:90
+skin1/wing1
+bounds:175,230,105,155
+rotate:90

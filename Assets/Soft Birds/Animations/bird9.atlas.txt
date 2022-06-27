@@ -1,0 +1,37 @@
+bird9.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+BLayer 1 copy
+bounds:134,2,56,87
+BLayer 27 copy
+bounds:134,2,56,87
+BLayer 14 copy
+bounds:192,13,91,144
+rotate:90
+BLayer 15 copy
+bounds:163,151,137,141
+BLayer 21 copy
+bounds:177,331,49,34
+rotate:90
+BLayer 5 copy
+bounds:2,294,173,215
+skin1/Layer 1
+bounds:163,106,43,72
+rotate:90
+skin1/Layer 14
+bounds:2,12,77,130
+rotate:90
+skin1/Layer 15
+bounds:177,382,123,127
+skin1/Layer 21
+bounds:177,294,35,20
+rotate:90
+skin1/Layer 24
+bounds:199,310,18,19
+skin1/Layer 26
+bounds:237,107,42,73
+rotate:90
+skin1/Layer 5
+bounds:2,91,159,201

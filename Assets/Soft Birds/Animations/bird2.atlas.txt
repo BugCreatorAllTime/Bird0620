@@ -1,0 +1,48 @@
+bird2.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.35
+B1
+bounds:2,4,119,169
+rotate:90
+B2
+bounds:137,374,135,94
+rotate:90
+B4
+bounds:137,316,56,87
+rotate:90
+B6
+bounds:173,2,106,132
+B7
+bounds:2,311,133,198
+B9
+bounds:270,346,43,30
+rotate:90
+skin1/Layer 1 copy
+bounds:226,321,42,51
+skin1/Layer 1
+bounds:226,321,42,51
+skin1/Layer 2
+bounds:162,125,9,8
+rotate:90
+skin1/Layer 2 copy
+bounds:150,125,9,10
+rotate:90
+skin1/body
+bounds:2,125,119,184
+skin1/eye
+bounds:123,127,25,25
+skin1/leg1 copy
+bounds:150,136,29,16
+skin1/leg1
+bounds:150,136,29,16
+skin1/mouth
+bounds:230,198,121,80
+rotate:90
+skin1/tail
+bounds:233,391,92,118
+skin1/wing1 copy
+bounds:123,154,105,155
+skin1/wing1
+bounds:123,154,105,155
